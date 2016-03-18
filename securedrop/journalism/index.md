@@ -75,3 +75,62 @@ I6z2G/0TH7VzM9mKxXypVmQ=
 =4Oyg
 -----END PGP PUBLIC KEY BLOCK-----
 ~~~~~~~
+
+
+### Ali Winston
+
+![Ali](/images/journalists/Winston.jpg)
+--------------
+
+[Ali Winston](https://www.twitter.com/awinston) covers criminal justice and surveillance. His award-winning reporting has appeared in a number of regional and national outlets. Originally from New York, Ali is a graduate of the University of Chicago and the University of California, Berekely. In his spare time, he plays soccer obsessively and attempts to decipher Thomas Pynchon's writing. His GPG fingerprint is `0797 9561 E834 694E 9425 4825 8023 64A9 51DC 1A09`. 
+
+
+~~~~~~~
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+QswD5msDXQ==
+=QztV
+-----END PGP PUBLIC KEY BLOCK-----
+~~~~~~~
+
