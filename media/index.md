@@ -4,26 +4,17 @@ title: Lucy Parsons Labs Members in the Press
 header:
     image_fullwidth: "RekiaBoyd.jpg"
 #permalink: /media/
-mediaplayer: true
 ---
 
 # Conferences 	
 
 ## 32c3
 
-At [Chaos Computer Club](https://events.ccc.de/category/32c3/) (32c3), Jennifer Helsby presented on the mass quantities of data being incorporated into predictive systems. While these algorithms operate in the dark their use has have many consequences, both intentional and unintentional. Her talk covered issues of fairness and accountability involved in controlling algorithms for media, policy, and policing.
-
-<video width="640" height="360" id="player1" preload="none">
-    <source type="video/youtube" src="https://www.youtube.com/watch?v=BaCzwGbo-Mc" />
-</video>
+At [Chaos Computer Club](https://events.ccc.de/category/32c3/) (32c3), Jennifer Helsby presented on the mass quantities of data being incorporated into predictive systems. While these algorithms operate in the dark their use has have many consequences, both intentional and unintentional. Her talk covered issues of fairness and accountability involved in controlling algorithms for media, policy, and policing. You can view the video [here](https://www.youtube.com/watch?v=BaCzwGbo-Mc)
 
 ## DEF CON 23
 
-At [DEF CON 23](https://www.defcon.org/), Jennifer Helsby presented in the Crypto and Privacy Village on the privacy implications of machine learning.  Presenting in the same village, Freddy Martinez also presented on IMSI Catchers and practical counter-surveillance. 
-
-<video width="640" height="360" id="player1" preload="none">
-    <source type="video/youtube" src="https://www.youtube.com/embed/JyTb5mJOYLo" />
-</video>
+At [DEF CON 23](https://www.defcon.org/), Jennifer Helsby presented in the Crypto and Privacy Village on the privacy implications of machine learning.  Presenting in the same village, Freddy Martinez also presented on IMSI Catchers and practical counter-surveillance. You can view that video [here.](https://www.youtube.com/embed/JyTb5mJOYLo)
 
 ## THOTCON 0x5 
 
