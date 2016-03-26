@@ -8,13 +8,13 @@ header:
 
 ------------------------
 
-Lucy Parsons Labs is collaborating with journalists on Black Rose. If you would like them to handle your documents directly, you can encrypt documents to their GPG keys first before uploading to Black Rose. 
+Lucy Parsons Labs is collaborating with journalists on Black Rose. If you would like them to handle your documents directly, you should encrypt documents first to their GPG keys first before uploading to Black Rose. 
 
 ### Paul Gottinger
 ![Paul](/images/journalists/Gottinger.jpeg)
 
 --------------
-[Paul Gottinger](https://twitter.com/PaulGottinger) is a journalist based in Chicago who writes about national security, US foreign policy with a focus on the Middle East, and the War on Terror. His GPG key can be found below and his fingerprint is `BF8B 2C5A 3101 7563 B44F 8A68 23BD BDDC 0A0B 5FA9`. 
+[Paul Gottinger](https://twitter.com/PaulGottinger) is a journalist based in Chicago who writes about national security, US foreign policy with a focus on the Middle East, and the War on Terror. He received his degree from the University of Wisconsin.  His GPG key can be found below and his fingerprint is `BF8B 2C5A 3101 7563 B44F 8A68 23BD BDDC 0A0B 5FA9`. 
 
 
 ~~~~~~~
