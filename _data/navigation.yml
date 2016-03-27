@@ -25,6 +25,18 @@
   - title: "Primer on Chicago Surveillance"
     url: "/projects/primer/"
 
+- title: "SecureDrop"
+  url: "/securedrop/"
+  side: left
+  dropdown:
+  - title: "SecureDrop"
+    url: "/securedrop/"
+  - title: "Privacy Policy"
+    url: "/securedrop/privacypolicy"
+  - title: "Journalists" 
+    url: "/securedrop/journalism"
+
+
 - title: "Resources"
   url: "/resources/"
   side: left
