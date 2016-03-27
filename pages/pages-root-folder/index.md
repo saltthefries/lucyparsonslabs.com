@@ -13,7 +13,7 @@ widget1:
   title: "SecureDrop"
   url: 'https://www.lucyparsonslabs.com/securedrop'
   image: /images/thumbs/blackrose.jpg
-  text: 'SecureDrop is a platform for leaking documents to journalists securely and without compromising sources. LPL has launched Black Rose, our implementation of SecureDrop. We are the only group running an instance in Chicago and will be assisting journalists in breaking stories.'
+  text: 'SecureDrop is a platform for leaking documents to journalists securely and without compromising sources. LPL has launched Black Rose, our SecureDrop instance. We are the only group running an instance in Chicago and will be assisting journalists in breaking stories.'
 
 widget2:
   title: "Current Projects"
