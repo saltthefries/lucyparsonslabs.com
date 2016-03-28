@@ -6,6 +6,10 @@ header:
 #permalink: /media/
 ---
 
+# Recent Press Releases
+
+Click [here](https://www.lucyparsonslabs.com/media/pressreleases) to see any current press releases that the Lucy Parsons Labs has sent.
+
 # Conferences 	
 
 ## 32c3
