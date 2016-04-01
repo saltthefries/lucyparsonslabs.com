@@ -5,10 +5,12 @@ header:
     image_fullwidth: "RekiaBoyd.jpg"
 #permalink: /media/
 ---
+------------------
 
 # Recent Press Releases
 
 Click [here](https://www.lucyparsonslabs.com/media/pressreleases) to see any current press releases that the Lucy Parsons Labs has sent.
+
 
 # Conferences 	
 
@@ -32,8 +34,8 @@ Freddy Martinez was featured in a [sit-down interview](http://wgntv.com/2015/05/
 
 # Print Media 
 
-The Chicago Reader recently identified a Chicago Police Officer involved the [fatal shooting of an unarmed woman](http://www.chicagoreader.com/Bleader/archives/2016/01/14/internal-police-records-point-to-the-identity-of-the-officer-who-fatally-shot-bettie-jones-and-quintonio-legrier). The identity was confirmed by public records requests created in collaboration with a journalist. Also in the Chicago Reader, members of the LPL were on a front-page article for contributing to [Cryptoparty Chicago](http://www.chicagoreader.com/chicago/tales-from-the-crypto-party/Content?oid=17455111). Most LPL members are involved in teaching users security tools.
-
+The Chicago Reader recently identified a Chicago Police Officer involved the [fatal shooting of an unarmed woman](http://www.chicagoreader.com/Bleader/archives/2016/01/14/internal-police-records-point-to-the-identity-of-the-officer-who-fatally-shot-bettie-jones-and-quintonio-legrier). The identity was confirmed by public records requests created in collaboration with a journalist. Also in the Chicago Reader, members of the LPL were on a front-page article for contributing to [Cryptoparty Chicago](http://www.chicagoreader.com/chicago/tales-from-the-crypto-party/Content?oid=17455111). Most LPL members are involved in teaching users security tools. As of 2015, LPL has been gathering documentation about the use of Cellebrite, a cell phone forensics company, in the Chicagoland area. Before the _Apple vs FBI_ controversy renewed interest in this area [North Star Post](http://nstarpost.com/17518/175572/a/cellebrite-what-you-need-to-know-about-cell-phone-forensics) published an expose on Cellebrite which relied on documents obtained by LPL.
+ 
 # Online 
 During multiple lawsuits it was discovered that CPD was spending [hundreds of thousands of dollars](http://arstechnica.com/tech-policy/2015/04/chicago-owes-lawyers-over-120000-for-defense-against-two-stingray-cases) to keep FOIA records from the public. After this came to light, [VICE](https://www.vice.com/read/stingrays-and-secrets-how-the-chicago-police-department-was-forced-to-come-clean-330/) sat down with Freddy Martinez, profiled his fight against CPD, tracked down the source of the money and discussed the ongoing legal fight.
 
