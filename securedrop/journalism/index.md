@@ -82,7 +82,7 @@ I6z2G/0TH7VzM9mKxXypVmQ=
 ![Ali](/images/journalists/Winston.jpg)
 --------------
 
-[Ali Winston](https://www.twitter.com/awinston) covers criminal justice and surveillance. His award-winning reporting has appeared in a number of regional and national outlets. Originally from New York, Ali is a graduate of the University of Chicago and the University of California, Berekely. In his spare time, he plays soccer obsessively and attempts to decipher Thomas Pynchon's writing. His GPG fingerprint is `0797 9561 E834 694E 9425 4825 8023 64A9 51DC 1A09`. 
+[Ali Winston](https://www.twitter.com/awinston) covers criminal justice and surveillance. His award-winning reporting has appeared in a number of regional and national outlets. Originally from New York, Ali is a graduate of the University of Chicago and the University of California, Berkeley. In his spare time, he plays soccer obsessively and attempts to decipher Thomas Pynchon's writing. His GPG fingerprint is `0797 9561 E834 694E 9425 4825 8023 64A9 51DC 1A09`. 
 
 
 ~~~~~~~
