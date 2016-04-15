@@ -39,6 +39,10 @@ The Chicago Reader recently identified a Chicago Police Officer involved the [fa
 # Online 
 During multiple lawsuits it was discovered that CPD was spending [hundreds of thousands of dollars](http://arstechnica.com/tech-policy/2015/04/chicago-owes-lawyers-over-120000-for-defense-against-two-stingray-cases) to keep FOIA records from the public. After this came to light, [VICE](https://www.vice.com/read/stingrays-and-secrets-how-the-chicago-police-department-was-forced-to-come-clean-330/) sat down with Freddy Martinez, profiled his fight against CPD, tracked down the source of the money and discussed the ongoing legal fight.
 
+Politico's Natasha Korecki and Manuela Tobias on their tip sheet 'Illinois Playbook' mentioned Lucy Parsons Labs alongside other must-read stories of Illinois political news. You can read the rundown [here](http://www.politico.com/tipsheets/illinois-playbook/2016/03/rauner-undeterred-by-scotus-labor-ruling-chicago-state-slipping-off-cliff-mark-kirks-garland-meeting-213477).
+
+After the launch of [Black Rose](https://www.lucyparsonslabs.com/securedrop) Chicago based public media program Chicago Tonight published by [WTTW Chicago](http://www.wttw.com/) covered Lucy Parsons Labs. The article can be read [here](http://chicagotonight.wttw.com/2016/03/31/anonymously-leaking-documents-journalists-chicago-just-got-easier).
+
 # Radio 
 On NPR's ["On the Media"](http://www.onthemedia.org/), Lucy Parsons Labs' Director was featured as a guest. During the [discussion](http://www.onthemedia.org/story/tracing-chicago-surveillance/?hootPostID=c1171fde13a8a8ce1b55c92a0a84ae6c) we profiled our work on surveillance, the war on drugs, asset forfeiture, FOIA, Stingrays, and policing in Chicago.
  
