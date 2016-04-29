@@ -26,6 +26,9 @@ At [DEF CON 23](https://www.defcon.org/), Jennifer Helsby presented in the Crypt
 
 At [THOTCON 0x5](http://thotcon.org/), a Chicago-area infosec conference, Freddy Martinez gave a technical overview on IMSI Catchers, their modes of operations, and an overview of his work to uncover their use in Chicago.
 
+## The Color of Surveillance
+
+With a diverse line up of speakers and topics [this all day conference](https://www.law.georgetown.edu/academics/centers-institutes/privacy-technology/events/index.cfm) hosted by Georgetown Law focused on the policing and surveillance of black communities. Freddy Martinez, CEO, Lucy Parsons Labs gave a primer on Stingray devices, also known as IMSI catchers, and their role in the monitoring of the black community.  
 
 # TV / News
 Freddy Martinez was featured in a story with Univision, a Spanish-language news station, [speaking](http://www.univision.com/noticias/delitos-ciberneticos/hackers-los-piratas-del-presente) on hackers, hacking culture and hacktivism.
@@ -38,6 +41,12 @@ The Chicago Reader recently identified a Chicago Police Officer involved the [fa
  
 # Online 
 During multiple lawsuits it was discovered that CPD was spending [hundreds of thousands of dollars](http://arstechnica.com/tech-policy/2015/04/chicago-owes-lawyers-over-120000-for-defense-against-two-stingray-cases) to keep FOIA records from the public. After this came to light, [VICE](https://www.vice.com/read/stingrays-and-secrets-how-the-chicago-police-department-was-forced-to-come-clean-330/) sat down with Freddy Martinez, profiled his fight against CPD, tracked down the source of the money and discussed the ongoing legal fight.
+
+After a lengthy battle with the Chicago Police Department in the summer of 2014 over the purchases of Stringray devices, also known as IMSI Catchers, Freddy Martinez sued the CPD a second time. This second lawsuit sought the process in which CPD uses the cell phone tracking devices. EqualFuture covered the early beginnings of Lucy Parsons Labs. The full story [can be read here.](https://www.equalfuture.us/2015/11/25/lucy-parsons-labs-tech-chicago-activism/)
+
+Politico's Natasha Korecki and Manuela Tobias on their tip sheet 'Illinois Playbook' mentioned Lucy Parsons Labs alongside other must-read stories of Illinois political news. You can read the rundown [here](http://www.politico.com/tipsheets/illinois-playbook/2016/03/rauner-undeterred-by-scotus-labor-ruling-chicago-state-slipping-off-cliff-mark-kirks-garland-meeting-213477).
+
+After the launch of [Black Rose](https://www.lucyparsonslabs.com/securedrop) Chicago based public media program Chicago Tonight published by [WTTW Chicago](http://www.wttw.com/) covered Lucy Parsons Labs. The article can be read [here](http://chicagotonight.wttw.com/2016/03/31/anonymously-leaking-documents-journalists-chicago-just-got-easier).
 
 # Radio 
 On NPR's ["On the Media"](http://www.onthemedia.org/), Lucy Parsons Labs' Director was featured as a guest. During the [discussion](http://www.onthemedia.org/story/tracing-chicago-surveillance/?hootPostID=c1171fde13a8a8ce1b55c92a0a84ae6c) we profiled our work on surveillance, the war on drugs, asset forfeiture, FOIA, Stingrays, and policing in Chicago.
