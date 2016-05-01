@@ -9,7 +9,7 @@ header:
 ### A joint project with MuckRock   
 
 
-[Remaining checks to FOIA](checks.html)
+[Remaining checks to FOIA](https://lucyparsonslabs.com/projects/checks)
 
 Through the last year and a half, we have used FOIA to investigate the use of surveillance equipment by the Chicago Police Department (CPD). Through [multiple FOIA requests and lawsuits](http://arstechnica.com/tech-policy/2014/09/after-small-victory-in-stingray-case-chicago-man-seeks-more-records/), we have demonstrated the CPD's purchase and [use of controversial "Stingray" cellphone surveillance devices](http://arstechnica.com/tech-policy/2014/06/is-chicago-using-cell-tracking-devices-one-man-tries-to-find-out
 ) among other new surveillance technologies. Also through this work we have seen [Chicago Police acting in "bad faith"](http://shadowproof.com/2014/06/10/chicago-police-sued-for-acting-in-bad-faith-by-failing-to-provide-stingray-surveillance-records/) in fulfilling our FOIA requests. 
@@ -22,7 +22,7 @@ Recently in Chicago, we've seen [Chicago Police spying on Black Lives Matter act
 
 **We need your help to find out what else the 1505 funds are being used to purchase.** To date we have requested about 25% of the 2014 funds ([link to mirrors](https://github.com/lucyparsons/1505-documents/)) and have another 25% of 2015 FOIAed. The easiest, best way you can help is by participating. Please file a FOIA for a set of funds that has not been requested on MuckRock. 
 
-**How to file a FOIA:** [Click here to copy a sample request](https://www.muckrock.com/foi/chicago-169/1505ml-checks-14425-through-14452-22173/), and then copy and paste information from 10 checks at a time from [this list](https://lucyparsons.github.io/projects/checks.html). Make sure that the checks your copying haven't been filed for yet by looking at the request from the bottom of this page (we'll also be regularly updating the list of checks on the link above to only show un-requested checks).
+**How to file a FOIA:** [Click here to copy a sample request](https://www.muckrock.com/foi/chicago-169/1505ml-checks-14425-through-14452-22173/), and then copy and paste information from 10 checks at a time from [this list](https://lucyparsonslabs.com/projects/checks). Make sure that the checks your copying haven't been filed for yet by looking at the request from the bottom of this page (we'll also be regularly updating the list of checks on the link above to only show un-requested checks).
 
 After you file a request, make sure to tag it "chicago surveillance fund" so we know to add it to this project.
 
