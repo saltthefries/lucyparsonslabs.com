@@ -17,7 +17,7 @@ All media inquiries should be sent to media AT lucyparsonslabs DOT com. We hope 
 
 ### You can contact the Director of LPL, Freddy Martinez using his GPG key
  
-GPG Fingerprint: `A712 B1DB 9076 2931 4565 0DA6 34FB 06F1 E80A 64A1`
+GPG Fingerprint: `A712 B1DB 9076 2931 4565 0DA6 34FB 06F1 E80A 64A1` using his GPG key for `freddymartinez9 AT gmail DOT com` but if you are sending an unencypted email, please use `freddyinchicago AT gmail`.
  
 ~~~~~~~~
 -----BEGIN PGP PUBLIC KEY BLOCK-----
