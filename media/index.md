@@ -9,7 +9,7 @@ header:
 
 # Recent Press Releases
 
-Click [here](https://www.lucyparsonslabs.com/media/pressreleases) to see any current press releases that the Lucy Parsons Labs has sent.
+Click [here](/media/pressreleases) to see any current press releases that the Lucy Parsons Labs has sent.
 
 
 # Conferences 	
@@ -46,7 +46,7 @@ After a lengthy battle with the Chicago Police Department in the summer of 2014 
 
 Politico's Natasha Korecki and Manuela Tobias on their tip sheet 'Illinois Playbook' mentioned Lucy Parsons Labs alongside other must-read stories of Illinois political news. You can read the rundown [here](http://www.politico.com/tipsheets/illinois-playbook/2016/03/rauner-undeterred-by-scotus-labor-ruling-chicago-state-slipping-off-cliff-mark-kirks-garland-meeting-213477).
 
-After the launch of [Black Rose](https://www.lucyparsonslabs.com/securedrop) Chicago based public media program Chicago Tonight published by [WTTW Chicago](http://www.wttw.com/) covered Lucy Parsons Labs. The article can be read [here](http://chicagotonight.wttw.com/2016/03/31/anonymously-leaking-documents-journalists-chicago-just-got-easier).
+After the launch of [Black Rose](/securedrop) Chicago based public media program Chicago Tonight published by [WTTW Chicago](http://www.wttw.com/) covered Lucy Parsons Labs. The article can be read [here](http://chicagotonight.wttw.com/2016/03/31/anonymously-leaking-documents-journalists-chicago-just-got-easier).
 
 # Radio 
 On NPR's ["On the Media"](http://www.onthemedia.org/), Lucy Parsons Labs' Director was featured as a guest. During the [discussion](http://www.onthemedia.org/story/tracing-chicago-surveillance/?hootPostID=c1171fde13a8a8ce1b55c92a0a84ae6c) we profiled our work on surveillance, the war on drugs, asset forfeiture, FOIA, Stingrays, and policing in Chicago.
