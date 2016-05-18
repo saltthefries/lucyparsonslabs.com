@@ -13,21 +13,15 @@ end
 
 desc 'Publish to staging via rsync'
 task :deploy do
-  puts 'Publishing the contents of _site'
-  user = 'git'
-  server = 'staging.lucyparsonslabs.com'
-  path = '/var/www/lucyparsonslabs.com'
-  sh "rsync -rtzh --delete _site/ #{user}@#{server}:#{path}"
+  puts 'Building the site for staging'
+  publish('_config_staging.yml', 'staging.lucyparsonslabs.com')
   puts 'New content copied to http://staging.lucyparsonslabs.com'
 end
 
 desc 'Publish to prod via rsync'
 task :deploy_prod do
-  puts 'Publishing the contents of _site'
-  user = 'git'
-  server = 'lucyparsonslabs.com'
-  path = '/var/www/lucyparsonslabs.com'
-  sh "rsync -rtzh --delete _site/ #{user}@#{server}:#{path}"
+  puts 'Building the site for production'
+  publish(nil, 'lucyparsonslabs.com')
   puts 'New content copied to http://lucyparsonslabs.com'
 end
 
@@ -42,4 +36,17 @@ This post will be updated monthly.\n
 Last updated #{Date.today.strftime("%B %e, %Y")}.
 END
  sh "echo \"#{canarytext}\" | gpg --clearsign > _includes/canary.txt"
+end
+
+def publish(additional_configs, server)
+  if additional_configs
+    config = ['_config.yml', additional_configs].join(',')
+  else
+    config = '_config.yml'
+  end
+  sh "bundle exec jekyll build --config #{config}"
+  puts 'Publishing the contents of _site'
+  user = 'git'
+  path = '/var/www/lucyparsonslabs.com'
+  sh "rsync -rtzh --delete _site/ #{user}@#{server}:#{path}"
 end
