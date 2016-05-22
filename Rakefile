@@ -46,7 +46,7 @@ def publish(additional_configs, server)
   end
   sh "bundle exec jekyll build --config #{config}"
   puts 'Publishing the contents of _site'
-  user = 'git'
+  user = 'lpldeploy'
   path = '/var/www/lucyparsonslabs.com'
   sh "rsync -rtzh --delete _site/ #{user}@#{server}:#{path}"
 end
