@@ -11,7 +11,7 @@ header:
 
 widget1:
   title: "SecureDrop"
-  url: 'https://www.lucyparsonslabs.com/securedrop'
+  url: '/securedrop'
   image: /images/thumbs/blackrose.jpg
   text: 'SecureDrop is a platform for leaking documents to journalists securely and without compromising sources. LPL has launched Black Rose, our SecureDrop instance. We are the only group running an instance in Chicago and will be assisting journalists in breaking stories.'
 
@@ -24,12 +24,12 @@ widget2:
 widget3:
   title: "In the Media"
   image: /images/satellitedish_scaled.jpg
-  url: 'https://www.lucyparsonslabs.com/media/'
+  url: '/media/'
   text: 'Our members have been the media, either talking about our projects or their own involvement in technical issues in Chicago. If you would like to take a look, please click the link!'
 
 
 callforaction:
-  url: https://lucyparsonslabs.com/contact/
+  url: /contact/
   text: Get in touch to learn more about LPL ›
   style: alert
 permalink: /index.html

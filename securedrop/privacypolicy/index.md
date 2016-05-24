@@ -47,11 +47,11 @@ SecureDrop servers are always under the physical control of Lucy Parsons Labs an
 
 However, no one can truly guarantee 100% security of any system. Like all software, SecureDrop may contain bugs. Ultimately, you use the SecureDrop service at your own risk. 
 
-Please be aware that the LPL also maintains a [Warrant Canary](https://lucyparsonslabs.com/canary/), please pay careful attention to it. 
+Please be aware that the LPL also maintains a [Warrant Canary](/canary/), please pay careful attention to it. 
 
 ### Changes to This Policy
 
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our collection and use of personal information and will always be at [this link](lucyparsonslabs.com/securedrop/privacypolicy). If we make changes that we believe are major, we will prominently display a notice on our site after we we make those changes.
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our collection and use of personal information and will always be at [this link](/securedrop/privacypolicy). If we make changes that we believe are major, we will prominently display a notice on our site after we we make those changes.
 
 ### Contact
 
