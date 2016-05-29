@@ -34,4 +34,3 @@ Join us and many others in the fight!
 To learn about the Electronic Frontier Alliance and add your support to the fight visit the following link.
 
 [https://www.eff.org/electronic-frontier-alliance](https://www.eff.org/electronic-frontier-alliance)
-                                                                                                            36,1          Bot
