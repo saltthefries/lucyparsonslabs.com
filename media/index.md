@@ -32,7 +32,7 @@ With a diverse line up of speakers and topics [this all day conference](https://
 
 # Community Meetings
 
-[Chi Hack Night](https://chihacknight.org/) is Chicago's weekly event to build, share and learn about civic tech. Lucy Parsons Labs CTO Jen, and CEO Freddy presented on the recent deployment of "Black Rose" a Secure Drop system. The presentation was recorded and can be seen here: [https://www.youtube.com/watch?v=XKY_Sgv9ej8](https://www.youtube.com/watch?v=XKY_Sgv9ej8)
+[Chi Hack Night](https://chihacknight.org/) is Chicago's weekly event to build, share and learn about civic tech. Lucy Parsons Labs CTO Jen, and CEO Freddy presented on the recent deployment of "Black Rose" a Secure Drop system. The presentation was recorded and can be seen [here](https://www.youtube.com/watch?v=XKY_Sgv9ej8).
 
 The [Electronic Frontier Alliance](https://www.eff.org/electronic-frontier-alliance) (EFA) co-facilitated a workshop in Chicago in which nearly 100 people participated from across the city representing the [Chicago GNU/Linux Users Group](https://chicagolug.org/), [Restore the Fourth-Chicago](http://rt4chicago.com/index.html), and the [National Lawyers Guild Chicago chapter](http://nlgchicago.org/). Our CTO Jen, presented on the current state of local police surveillance. The presentation was not recorded, but more information about the workshop can be read [here](https://www.eff.org/deeplinks/2016/04/community-groups-come-together-across-us-promote-digital-rights).
 
