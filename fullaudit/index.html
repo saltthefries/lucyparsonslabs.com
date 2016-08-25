@@ -290,14 +290,6 @@ d3.select(self.frameElement).style("height", margin.top + margin.bottom + "px");
 </script> 
 </div>
 
-    <footer class='footer'>
-    
-  <div class='container-fluid'>
-        <hr />
-        <p class='pull-right'><a href='https://github.com/derekeder/csv-to-html-table'>CSV to HTML Table created  </a> by <a href='http://derekeder.com'>Derek Eder</a></p>
-      </div>
-    </footer>
-
     <div id='table-container'></div>
     
 <!-- Bootstrap core JavaScript
@@ -312,12 +304,21 @@ d3.select(self.frameElement).style("height", margin.top + margin.bottom + "px");
 
     <script>
       init_table({
-        csv_path: 'data/August23.csv',
+        csv_path: 'data/August24clean.csv',
         element: 'table-container', 
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
         datatables_options: {"paging": true}
       });
     </script>
-  </body>
+
+    <footer class='footer'>
+
+  <div class='container-fluid'>
+        <hr />
+        <p class='pull-right'><a href='https://github.com/derekeder/csv-to-html-table'>CSV to HTML Table created  </a> by <a href='http://derekeder.com'>Derek Eder</a></p>
+      </div>
+    </footer>
+
+</body>
 </html>

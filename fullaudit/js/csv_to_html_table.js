@@ -26,7 +26,7 @@ function init_table(options) {
             for (row_id = 1; row_id < csv_data.length; row_id++) {
                 var row_html = "<tr>";
   		csv_data[row_id][6] = linkpdf(csv_data[row_id][6]);	
-                csv_data[row_id][13] = linkify(csv_data[row_id][13]);
+                csv_data[row_id][10] = linkify(csv_data[row_id][10]);
 		for (col_id = 0; col_id < csv_data[row_id].length; col_id++) {
                     row_html += "<td>" + csv_data[row_id][col_id] + "</td>";
                 }
