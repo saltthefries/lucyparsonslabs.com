@@ -1,5 +1,5 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA1
+Hash: SHA256
 
 We have not been contacted by any government agencies requesting
 
@@ -7,15 +7,15 @@ information about our workshop attendees or website visitors.
 
 This post will be updated monthly.
 
-Last updated October  1, 2016.
+Last updated November  1, 2016.
 
 -----BEGIN PGP SIGNATURE-----
 
-iQEcBAEBAgAGBQJX7+ikAAoJEFCCEeW7GLh+bzAH/3rDgZqGylcaK5D2gkdGk2q2
-QglOp0VmD+sXqPBipzuNcSCRlnLXk5Usbe52qpt2A+bs3qmefPmlhdowbQ3WWYrJ
-uyjX/zLHye4fslcx9KOO6Zrdtdz9RF8WQScNKxH8skUfB2Agy1pMolHnzkTU7AZJ
-Ob+uqSIgNDfQtdaWeEZG8UpcK8ghOv5DpgUc6Pyuh6jAimEFP4nbpOA7CQivWVlr
-+UA6JyvD5nFnkL8RY9mw+fX5KbvD+99sHKGWDctFAh3oAx6nqDQX1nQe8hacxf9F
-404iL2/z7o4TObdSLBjk/HWoSpYx0l0vH554gpf6sauWgvfkeWVyS7JFKIYa56I=
-=iU8c
+iQEcBAEBCAAGBQJYGLpaAAoJEFCCEeW7GLh+fxMIAJ3CarvOfvGZz0cf8n44s/c+
+cNnu+FKcQ9oBfNoQGX2q/Akt8L3XKbrKto5c2CwbHS7ia+hfdOMBWyp6/cQK3m0R
+v9HrDh6ICvYdDQfNcLwtO2V7Bfghp77VJTJ4Y3TQLdQr/i7jeC1lzbL1M9VtLx0W
+q2pctsbCTQHUk7G45baIVWs+dwZ4VXDCNkMjlz2ie0NeGTwiva4FW1uaLThDvlwl
+x3G3deR+qNmRt++gUm1F/ZxR7fLL2xcIXDVdetdxoI80HS9CqrmG+4OQ1MXCxwVL
+0Ol/3UseXTqdt35trBxay/kjR+4ns4YqLLHBeVMO5xNEqMk0M9fs8JJVCw/geDA=
+=kznJ
 -----END PGP SIGNATURE-----
