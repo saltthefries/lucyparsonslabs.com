@@ -24,6 +24,8 @@
     url: "/projects/"
   - title: "Primer on Chicago Surveillance"
     url: "/projects/primer/"
+  - title: "OpenOversight"
+    url: "/projects/openoversight/"
 
 - title: "SecureDrop"
   url: "/securedrop/"
@@ -35,7 +37,6 @@
     url: "/securedrop/privacypolicy"
   - title: "Journalists" 
     url: "/securedrop/journalism"
-
 
 - title: "Resources"
   url: "/resources/"
