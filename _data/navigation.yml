@@ -26,6 +26,8 @@
     url: "/projects/primer/"
   - title: "OpenOversight"
     url: "/projects/openoversight/"
+  - title: "Stingray"
+    url: "/projects/stingray/"
 
 - title: "SecureDrop"
   url: "/securedrop/"
