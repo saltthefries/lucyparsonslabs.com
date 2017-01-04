@@ -61,6 +61,8 @@ Politico's Natasha Korecki and Manuela Tobias on their tip sheet 'Illinois Playb
 
 After the launch of [Black Rose](/securedrop) Chicago based public media program Chicago Tonight published by [WTTW Chicago](http://www.wttw.com/) covered Lucy Parsons Labs. The article can be read [here](http://chicagotonight.wttw.com/2016/03/31/anonymously-leaking-documents-journalists-chicago-just-got-easier).
 
+Lucy Parsons Labs was featured in the EFF's [2016: Year of Resistance](https://www.eff.org/deeplinks/2016/12/ringing-new-year-resistance) blog post covering our work on OpenOversight and Civil Asset Forfeiture.
+
 # Radio 
 Lucy Parsons Labs’ Director, Freddy Martinez, was featured as a guest on NPR's["On the Media"](http://www.onthemedia.org/). During the [discussion](http://www.onthemedia.org/story/tracing-chicago-surveillance/?hootPostID=c1171fde13a8a8ce1b55c92a0a84ae6c) we profiled our work on surveillance, the war on drugs, asset forfeiture, FOIA, Stingrays, and policing in Chicago.
  
