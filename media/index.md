@@ -51,6 +51,9 @@ The Chicago Reader recently identified a Chicago Police Officer involved the [fa
 
  
 # Online 
+
+Lucy Parsons Labs obtained numerous documents about how police departments in Cook County monitor and shape social media by monitoring the public. These document were reported on in [City Lab](http://www.citylab.com/crime/2016/12/how-police-are-watching-on-social-media/508991/) by journalist George Joseph who noted the slideshow in our records "explains that police can use “catfishing”—creating fake accounts—to get non-public social media data, even though such accounts are not permitted on Facebook, Twitter, and Instagram." Joseph also notes that "Cook County Sheriff’s Office records suggest that intelligence analysts are also compiling information on persons of interest for longer term retention, not just for “situational awareness” at public events."
+
 During multiple lawsuits it was discovered that CPD was spending [hundreds of thousands of dollars](http://arstechnica.com/tech-policy/2015/04/chicago-owes-lawyers-over-120000-for-defense-against-two-stingray-cases) to keep FOIA records from the public. After this came to light, [VICE](https://www.vice.com/read/stingrays-and-secrets-how-the-chicago-police-department-was-forced-to-come-clean-330/) sat down with Freddy Martinez, profiled his fight against CPD, tracked down the source of the money and discussed the ongoing legal fight.
 
 After a lengthy battle with the Chicago Police Department in the summer of 2014 over the purchases of Stringray devices, also known as IMSI Catchers, Freddy Martinez sued the CPD a second time. This second lawsuit sought the process in which CPD uses the cell phone tracking devices. EqualFuture covered the early beginnings of Lucy Parsons Labs. The full story [can be read here.](https://www.equalfuture.us/2015/11/25/lucy-parsons-labs-tech-chicago-activism/)
