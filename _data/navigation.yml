@@ -62,6 +62,10 @@
   url: "/donate/"
   side: left
 
+- title: Shop
+  url: "https://lucyparsonslabs.bigcartel.com/"
+  side: left
+
 #
 #   Navigation to the right › side: right
 #
