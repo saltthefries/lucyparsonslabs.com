@@ -13,7 +13,7 @@ Freddy Martinez ([@B_meson](https://twitter.com/B_meson)) is a reformed physicis
 ## Jennifer Helsby, CTO
 ![Jennifer](/images/Helsby.jpg)
 
-Jennifer Helsby ([@redshiftzero](https://twitter.com/redshiftzero)) is a postdoctoral researcher at UChicago's Computation Institute. She is interested in government and algorithmic transparency, as well as data privacy and security. She is also a former Data Science for Social Good fellow, where she worked on building predictive systems for cities. Prior to that, Jennifer completed her Ph.D. in astrophysics at the Kavli Institute for Cosmological Physics at the University of Chicago, where she studied the large scale distribution of galaxies in the universe.
+Jennifer Helsby ([@redshiftzero](https://twitter.com/redshiftzero)) is a Ford-Mozilla fellow at the Freedom of the Press Foundation where she works on the SecureDrop anonymous whistleblowing platform. Previously she was a postdoctoral researcher at UChicago's Computation Institute, where she worked on implementing machine learning methods to problems in public policy. Jennifer completed her Ph.D. in astrophysics at the Kavli Institute for Cosmological Physics at the University of Chicago.
 
 ## Mason Donahue, CSO
 ![Mason](/images/Donahue.jpg)
