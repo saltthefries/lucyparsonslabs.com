@@ -12,7 +12,7 @@ header:
 widget1:
   title: "SecureDrop"
   url: '/securedrop'
-  image: /images/thumbs/blackrose.jpg
+  image: /images/securedroplogo.png
   text: 'SecureDrop is a platform for leaking documents to journalists securely and without compromising sources. LPL has launched Black Rose, our SecureDrop instance. We are the only group running an instance in Chicago and will be assisting journalists in breaking stories.'
 
 widget2:
